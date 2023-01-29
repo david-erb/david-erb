@@ -8,5 +8,7 @@ Programs in C, C++, C#, Python, Javascript, PHP, HTML, Java and probably some ot
 
 Formerly employed at: MaxIV, Dtack (freelance), AT&T Bell Labs, Max-Planck-Institut für Plasmaphysik, University of Illinois, IBM
 
+Please find below a sampling of some of my work.  Enjoy!
+
 
 
