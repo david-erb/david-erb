@@ -1,6 +1,6 @@
-David Erb [linkedin](https://www.linkedin.com/in/david-erb-dtack/)
+David Erb - Senior Software Engineer, Diamond Light Source - [linkedin](https://www.linkedin.com/in/david-erb-dtack/)
 
-Senior Software Engineer, Diamond Light Source.
+
 
 Specializing in scientific computing, image processing and machine vision, device controls. Fun maker projects too!
 
